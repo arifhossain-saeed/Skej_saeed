@@ -1,0 +1,6 @@
+Color Scheme (Taken from Logo):
+Background - radial gradient: #FFFFFF in the middle to #E6E6E6 at edges
+Pink - #E20052
+Yellow - #EBB20E
+Green - #21B67A
+Blue - #28C3F2
